@@ -5,7 +5,7 @@
 
 - 📖 Studyed at [SouthWest University](http://swu.edu.cn/)
 
-- 📈 I am looking for a job
+- 📈 Worded in Yealink
 
 - ❤️ I love writing Golang, and explore fun project
 

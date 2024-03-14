@@ -10,7 +10,3 @@
 - ❤️ I love writing Golang, and explore fun project
 
 - 💬 Ask me about anything [here](https://github.com/Awadabang/Awadabang/issues)
-
-
-| <a href="https://github.com/Awadabang/github-readme-stats"><img align="center" src="https://github-readme-stats-awadabang.vercel.app/api?username=Awadabang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Awadabang's github stats" /></a> | <a href="https://github.com/Awadabang/github-readme-stats"><img align="center" src="https://github-readme-stats-awadabang.vercel.app/api/top-langs/?username=Awadabang&layout=compact&theme=buefy&hide_border=true&count_private=true&hide=html,css,javascript,typescript,vue" /></a> |
-| ------------- | ------------- |
